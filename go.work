@@ -1,0 +1,9 @@
+go 1.26.4
+
+use ./1-hello-world
+
+use (
+	./2-slices-arrays-ponteiros/2.1-introducao
+	./2-slices-arrays-ponteiros/2.2-copia-simples
+	./2-slices-arrays-ponteiros/2.3-deep-copy
+)
